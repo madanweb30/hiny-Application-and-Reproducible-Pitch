@@ -1,0 +1,13 @@
+name: reproduciblepitch
+title:
+username:
+account: madanweb30
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2442108
+bundleId: 3257736
+url: https://madanweb30.shinyapps.io/reproduciblepitch/
+when: 1591891166.73256
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: about.Rmd|Readme.html|Readme.Rmd
