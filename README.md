@@ -27,6 +27,9 @@ Click the Below Link for the Application.
 Click the Below Link for the github presentation.
 
 <https://github.com/madanweb30/hiny-Application-and-Reproducible-Pitch>
+
+Link for presentation
+<https://rpubs.com/madanweb30/626898>
 `
 
->>>>>>> 7c7e3750e53030167f4c9513f7b7af4fe82848f3
+
